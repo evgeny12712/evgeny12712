@@ -1,4 +1,4 @@
-<h3 align="center">A passionate full-stack| frontend developer from Israel</h3>
+<h3 align="center">A passionate full-stack | frontend developer from Israel</h3>
 
 - 🔭 I’m currently working on [monday-clone](https://github.com/evgeny12712/monday-proj-frontend)
 
