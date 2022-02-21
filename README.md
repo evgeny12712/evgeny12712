@@ -1,9 +1,5 @@
 <h3 align="center">A passionate full-stack | frontend developer from Israel</h3>
 
-- 🔭 I’m currently working on [monday-clone](https://github.com/evgeny12712/monday-proj-frontend)
-
-- 💬 Ask me about **Anything**
-
 - 📫 How to reach me **evgeny12712@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
